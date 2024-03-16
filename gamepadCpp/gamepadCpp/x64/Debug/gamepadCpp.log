@@ -1,0 +1,4 @@
+﻿  gamepadCpp.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\Nguyen Phong\Documents\PlatformIO\Projects\Quadcopter\gamepadCpp\gamepadCpp\SerialSender.h(49,39): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  gamepadCpp.vcxproj -> C:\Users\Nguyen Phong\Documents\PlatformIO\Projects\Quadcopter\gamepadCpp\x64\Debug\gamepadCpp.exe
